@@ -4,6 +4,10 @@ Iif you have the Krita source code, you can use this to generate the auto-comple
 
 The Python file has a lot of notes, so make sure to check that out to see exactly what is going on.
 
+
+If you look in the Output folder, you can see what the final generated file looks like. This is what you would use in your Python editor.
+
+
 Grab the Krita source code from here as a pre-requisite
 https://github.com/KDE/krita
 
