@@ -1,4 +1,4 @@
-# Krita: Python Auto-complete generator
+# Fake pyKrita: A Python Auto-completion generator
 
 Is a Python "fake" module generator for PyKrita. Its purpose is to provide intellisense and code completion in your code editor to simplify the development process when making krita extensions. 
 
