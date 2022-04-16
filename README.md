@@ -17,7 +17,7 @@ Originally forked from: https://github.com/scottpetrovic/krita-python-auto-compl
 
 ### Pre-packaged packages
 
-This is the easiest way of benefiting from the generator. Simply download a tar.gz file from any of the prepackaged releases https://github.com/ItsCubeTime/krita-python-auto-complete/releases/latest & run `pip install C:/Path/To/Tar/Gz/file.tar.gz`. Make sure that you call the correct pip - the one thats associated with the intrerpreter of which your IDE is using.
+This is the easiest way of benefiting from the generator. These pre packaged packages are installed like any other python package, simply download a tar.gz file from any of the prepackaged releases https://github.com/ItsCubeTime/krita-python-auto-complete/releases/latest & run `pip install C:/Path/To/Tar/Gz/file.tar.gz`. Make sure that you call the correct pip - the one thats associated with the intrerpreter of which your IDE is using.
 
 After this, restart your code editor & enjoy <3
 
