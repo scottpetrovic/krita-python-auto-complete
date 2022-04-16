@@ -28,7 +28,12 @@ Now you can run the script file with `python generate-python-autocomplete-file.p
 First you will need to figure out what Python installation your code editors language server uses and then find its associated pip executable. Once located, run `pip install pathToTheGeneratedTarGz.tar.gz`. Which will be live under `kritaHomeDir/pyKrita/dist` where `kritaHomeDir` is where you set the variable `kritaHomeDir` in `generate-python-autocomplete-file.py` to point towards.
 
 ## Uploading to Pypi
+*As of writing this, uploading to pip may not work correctly. Still trying to figure this one out, contributions are welcome*
 
 As the script runs it will attempt uploading to Pypi, where "twine" will ask you for your Pypi login credentials, if you dont want to upload to pypi, you can simply hit ctrl C with your terminal focused to cancel. You will still have your generated files where you pointed your `KritaHomeDir`.
 
-Anyone is welcome to upload the generated files to Pypi <3
+Anyone is welcome to try & upload the generated files to Pypi <3 If you do manage to successfully upload it, please do also open a discussion at https://github.com/ItsCubeTime/krita-python-auto-complete/discussions & drop a link to the pypi adress!
+
+## Contributing
+
+Im open to accept any PRs \^-^/
