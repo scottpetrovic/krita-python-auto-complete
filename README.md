@@ -17,7 +17,7 @@ Originally forked from: https://github.com/scottpetrovic/krita-python-auto-compl
 
 ### Pre-packaged packages
 
-This is the easiest way of benefiting from the generator. These pre packaged packages are installed like any other python package, simply download a tar.gz file from any of the prepackaged releases https://github.com/ItsCubeTime/krita-python-auto-complete/releases/latest & run `pip install C:/Path/To/Tar/Gz/file.tar.gz`. Make sure that you call the correct pip - the one thats associated with the intrerpreter of which your IDE is using.
+This is the easiest way of benefiting from the generator. These pre packaged packages are installed like any other python package, simply download a tar.gz file from any of the prepackaged releases https://github.com/ItsCubeTime/fake-pykrita/releases/latest & run `pip install C:/Path/To/Tar/Gz/file.tar.gz`. Make sure that you call the correct pip - the one thats associated with the intrerpreter of which your IDE is using.
 
 After this, restart your code editor & enjoy <3
 
@@ -44,7 +44,7 @@ First you will need to figure out what Python installation your code editors lan
 
 As the script runs it will attempt uploading to Pypi, where "twine" will ask you for your Pypi login credentials, if you dont want to upload to pypi, you can simply hit ctrl C with your terminal focused to cancel. You will still have your generated files where you pointed your `KritaHomeDir`.
 
-Anyone is welcome to try & upload the generated files to Pypi <3 If you do manage to successfully upload it, please do also open a discussion at https://github.com/ItsCubeTime/krita-python-auto-complete/discussions & drop a link to the pypi adress!
+Anyone is welcome to try & upload the generated files to Pypi <3 If you do manage to successfully upload it, please do also open a discussion at https://github.com/ItsCubeTime/fake-pykrita/discussions & drop a link to the pypi adress!
 
 ## Contributing
 
