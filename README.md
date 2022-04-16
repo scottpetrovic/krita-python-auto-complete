@@ -2,7 +2,7 @@
 
 Is a Python "fake" module generator for PyKrita. Its purpose is to provide intellisense and code completion in your code editor to simplify the development process when making krita extensions. 
 
-Traditionally, language servers & code editors like VS Code, PyCharm  & Vim (etc) wont be able to recognize the krita module and hence throw warnings and errors at you everywhere as it simply do now know of this "krita" module.
+Traditionally, language servers & code editors like VS Code, PyCharm & Vim (etc) wont be able to recognize the krita module and hence throw warnings and errors at you everywhere as it simply do not know of this “krita” module, which is what “Fake pyKrita” is meant to solve.
 
 A quick demo video:
 
